@@ -1,0 +1,6 @@
+<Atlas>
+ <Texture filename="aloo_tiki.tex" />
+ <Elements>
+  <Element name="aloo_tiki.tex" u1="0.0078125" u2="0.9921875" v1="0.0078125" v2="0.9921875" />
+ </Elements>
+</Atlas>

@@ -1,0 +1,12 @@
+<Atlas>
+  <Texture filename="mooncake_simple.tex" />
+  <Elements>
+    <Element name="mooncakenew.tex" u1="0.00390625" u2="0.24609375" v1="0.75390625" v2="0.99609375" />
+    <Element name="mooncakequarter.tex" u1="0.25390625" u2="0.49609375" v1="0.75390625" v2="0.99609375" />
+    <Element name="mooncakehalf.tex" u1="0.50390625" u2="0.74609375" v1="0.75390625" v2="0.99609375" />
+    <Element name="mooncake_simple.tex" u1="0.75390625" u2="0.99609375" v1="0.75390625" v2="0.99609375" />
+
+    <Element name="mooncakethreequarter.tex" u1="0.00390625" u2="0.24609375" v1="0.50390625" v2="0.74609375" />
+    <Element name="mooncakefull.tex" u1="0.25390625" u2="0.49609375" v1="0.50390625" v2="0.74609375" />
+  </Elements>
+</Atlas>
