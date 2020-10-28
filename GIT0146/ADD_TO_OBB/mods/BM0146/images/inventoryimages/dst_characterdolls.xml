@@ -1,0 +1,23 @@
+<Atlas>
+<Texture filename="dst_characterdolls.tex" />
+<Elements>
+<Element name="wilsondoll.tex" u1="0.003125" u2="0.196875" v1="0.803125" v2="0.996875" />
+<Element name="willowdoll.tex" u1="0.203125" u2="0.396875" v1="0.803125" v2="0.996875" />
+<Element name="wolfgangdoll.tex" u1="0.403125" u2="0.596875" v1="0.803125" v2="0.996875" />
+<Element name="wendydoll.tex" u1="0.603125" u2="0.796875" v1="0.803125" v2="0.996875" />
+<Element name="wx78doll.tex" u1="0.803125" u2="0.996875" v1="0.803125" v2="0.996875" />
+<Element name="wickerbottomdoll.tex" u1="0.003125" u2="0.196875" v1="0.603125" v2="0.796875" />
+<Element name="woodiedoll.tex" u1="0.203125" u2="0.396875" v1="0.603125" v2="0.796875" />
+<Element name="wesdoll.tex" u1="0.403125" u2="0.596875" v1="0.603125" v2="0.796875" />
+<Element name="waxwelldoll.tex" u1="0.603125" u2="0.796875" v1="0.603125" v2="0.796875" />
+<Element name="wathgrithrdoll.tex" u1="0.803125" u2="0.996875" v1="0.603125" v2="0.796875" />
+<Element name="webberdoll.tex" u1="0.003125" u2="0.196875" v1="0.403125" v2="0.596875" />
+<Element name="winonadoll.tex" u1="0.203125" u2="0.396875" v1="0.403125" v2="0.596875" />
+<Element name="warlydoll.tex" u1="0.403125" u2="0.596875" v1="0.403125" v2="0.596875" />
+<Element name="wortoxdoll.tex" u1="0.603125" u2="0.796875" v1="0.403125" v2="0.596875" />
+<Element name="wormwooddoll.tex" u1="0.803125" u2="0.996875" v1="0.403125" v2="0.596875" />
+<Element name="wurtdoll.tex" u1="0.003125" u2="0.196875" v1="0.203125" v2="0.396875" />
+<Element name="walterdoll.tex" u1="0.203125" u2="0.396875" v1="0.203125" v2="0.396875" />
+<Element name="mysterydoll.tex" u1="0.403125" u2="0.596875" v1="0.203125" v2="0.396875" />
+</Elements>
+</Atlas>
