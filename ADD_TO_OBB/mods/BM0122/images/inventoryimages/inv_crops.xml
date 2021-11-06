@@ -1,0 +1,41 @@
+<Atlas>
+
+  <Texture filename="inv_crops.tex" />
+ 
+  <Elements>
+
+    <Element name="grapricot.tex" u1="0.001953125" u2="0.248046875" v1="0.751953125" v2="0.998046875" />
+ 
+    <Element name="grapricot_cooked.tex" u1="0.251953125" u2="0.498046875" v1="0.751953125" v2="0.998046875" />
+ 
+    <Element name="grapricot_seeds.tex" u1="0.501953125" u2="0.748046875" v1="0.751953125" v2="0.998046875" />
+ 
+    <Element name="grapricot_dried.tex" u1="0.751953125" u2="0.998046875" v1="0.751953125" v2="0.998046875" />
+ 
+
+    <Element name="tomango.tex" u1="0.001953125" u2="0.248046875" v1="0.501953125" v2="0.748046875" />
+ 
+    <Element name="tomango_cooked.tex" u1="0.251953125" u2="0.498046875" v1="0.501953125" v2="0.748046875" />
+ 
+    <Element name="tomango_seeds.tex" u1="0.501953125" u2="0.748046875" v1="0.501953125" v2="0.748046875" />
+ 
+    <Element name="tomango_dried.tex" u1="0.751953125" u2="0.998046875" v1="0.501953125" v2="0.748046875" />
+ 
+
+    <Element name="yamion.tex" u1="0.001953125" u2="0.248046875" v1="0.251953125" v2="0.498046875" />
+ 
+    <Element name="yamion_cooked.tex" u1="0.251953125" u2="0.498046875" v1="0.251953125" v2="0.498046875" />
+ 
+    <Element name="yamion_seeds.tex" u1="0.501953125" u2="0.748046875" v1="0.251953125" v2="0.498046875" />
+ 
+
+    <Element name="limon.tex" u1="0.001953125" u2="0.248046875" v1="0.001953125" v2="0.248046875" />
+ 
+    <Element name="limon_cooked.tex" u1="0.251953125" u2="0.498046875" v1="0.001953125" v2="0.248046875" />
+ 
+    <Element name="limon_seeds.tex" u1="0.501953125" u2="0.748046875" v1="0.001953125" v2="0.248046875" />
+ 
+
+  </Elements>
+
+</Atlas>

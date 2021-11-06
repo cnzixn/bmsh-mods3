@@ -1,0 +1,30 @@
+<Atlas><Texture filename="crop_atlas.tex" />
+  <Elements>
+
+  <Element name="tomango.tex" u1="0011953125" u2="0.123046875" v1="0.876953125" v2="0.998046875" />
+  <Element name="limon.tex" u1="0.126953125" u2="0.248046875" v1="0.876953125" v2="0.998046875" />
+  <Element name="grapricot.tex" u1="0.251953125" u2="0.373046875" v1="0.876953125" v2="0.998046875" />
+  <Element name="zucchilli.tex" u1="0.37695312" u2="0.498046875" v1="0.876953125" v2="0.998046875" />
+  <Element name="yamion.tex" u1="0.501953125" u2="0.623046875" v1="0.876953125" v2="0.998046875" />
+  <Element name="guavacado.tex" u1="0.626953125" u2="0.748046875" v1="0.876953125" v2="0.998046875" />
+
+  <Element name="papayanapple.tex" u1="0.876953125" u2="0.998046875" v1="0.876953125" v2="0.998046875" />
+
+  <Element name="tomango_seeds.tex" u1="0011953125" u2="0.123046875" v1="0.751953125" v2="0.873046875" />
+  <Element name="limon_seeds.tex" u1="0.126953125" u2="0.248046875" v1="0.751953125" v2="0.873046875" />
+  <Element name="grapricot_seeds.tex" u1="0.251953125" u2="0.373046875" v1="0.751953125" v2="0.873046875" />
+  <Element name="zucchilli_seeds.tex" u1="0.37695312" u2="0.498046875" v1="0.751953125" v2="0.873046875" />
+  <Element name="yamion_seeds.tex" u1="0.501953125" u2="0.623046875" v1="0.751953125" v2="0.873046875" />
+  <Element name="guavacado_seeds.tex" u1="0.626953125" u2="0.748046875" v1="0.751953125" v2="0.873046875" />
+
+  <Element name="oleo.tex" u1="0011953125" u2="0.123046875" v1="0.376953125" v2="0.498046875" />
+  <Element name="molasses.tex" u1="0.126953125" u2="0.248046875" v1="0.376953125" v2="0.498046875" />
+  <Element name="fruit_syrup.tex" u1="0.251953125" u2="0.373046875" v1="0.376953125" v2="0.498046875" />
+
+  <Element name="flour_ground.tex" u1="0.876953125" u2="0.998046875" v1="0.376953125" v2="0.498046875" />
+
+  <Element name="rocky_meat.tex" u1="0011953125" u2="0.123046875" v1="0.126953125" v2="0.248046875" />
+  <Element name="tentacle_meat.tex" u1="0.126953125" u2="0.248046875" v1="0.126953125" v2="0.248046875" />
+  
+</Elements>
+</Atlas>

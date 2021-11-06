@@ -1,0 +1,6 @@
+<Atlas>
+ <Texture filename="kung_pao.tex" />
+  <Elements>
+   <Element name="kung_pao.tex" u1="0.0078125" u2="0.9921875" v1="0.0078125" v2="0.9921875" />
+  </Elements>
+</Atlas>

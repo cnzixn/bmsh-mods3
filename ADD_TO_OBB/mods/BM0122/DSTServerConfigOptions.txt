@@ -1,0 +1,30 @@
+-- Place in modoverrides.lua
+ if you wish to change the default setting for DST dedicated server.
+
+
+
+return {
+  ["workshop-381565292"]={
+	configuration_options={
+	waiter_quality=1,			-- NUMERICAL value - Scales from 0.9 to 1.05, alters hunger benefit recieved from ALL in game foods, 1= Normal
+	waiter_rutabeeta=1,			-- NUMERICAL value - Scales from 0 (none) up to 2 (plentiful) (suggested values 0, 0.2, 0.5, 1 [typical], 1.5, 2)
+	waiter_crops=1,				-- NUMERICAL value - Set to 1 to allow seeds planted in farms have chance to grow Waiter-101 crops, set to 0 to disable
+
+	waiter_garleekdrop=1,		-- NUMERICAL value - Scales from 0 (none) up to 1 (typical) for Garleek to drop from grass, (suggested values 0, 0.3, 0.5, 1.0)
+	waiter_rockydrop=0.2,		-- NUMERICAL value - Chance for rockymeat drop from Rock Lobsters range from 0 to 0.5, set to 0 to disable
+	waiter_meatdrop=1,			-- NUMERICAL value - Chance for Tentacle from tentacles (1), merms (2), or Both (3), set to 0 to disable
+	waiter_mushrooms=1,			-- NUMERICAL value - Set to 1 to allow new mushroom recipes and also use mushroom penalty for overuse of mushrooms; set to 0 to disable
+	waiter_frozen=1,			-- NUMERICAL value - Set to 1 to allow penalty for using two or more ice in a recipe, set to 0 to disable
+	waiter_cookableseeds=1,		-- NUMERICAL value - Set to 1 to allow seeds to be used in crockpot, set to 0 to disable
+	waiter_cookablewings=1,		-- NUMERICAL value - Set to 1 to allow batilisk wings to be used in crockpot, set to 0 to disable
+	waiter_cookablepetals=1,	-- NUMERICAL value - Set to 1 to allow flower petals, dark petals, and foliage to be used in crockpot, set to 0 to disable
+	waiter_cookableplantmeat=1,	-- NUMERICAL value - Set to 1 to allow leafy meat to be used in crockpot, set to 0 to disable
+	waiter_treedrop=1,			-- NUMERICAL value - Set to 1 to allow Lumpy Evergreen and Spiky Trees to drop Guavacado fruit, set to 0 to disable
+								-- In DS/Shipwrecked Set to 2 to allow Jungle Trees to drop Papayanapple, and set to 3 to allow both
+	waiter_cookablewobster=0,	-- NUMERICAL value - NO EFFFECT in DST : set to 1 to allow dead and pre-cooked lobster to be used in crockpot, set to 0 to disable
+	waiter_cookableblubber=0,	-- NUMERICAL value - NO EFFFECT in DST : set to 1 to allow blubber to be used in crockpot, set to 0 to disable
+	waiter_vineydrop=0,			-- NUMERICAL value - NO EFFFECT in DST : set to 1 to allow chance for Viney Bush to drop extra veggies, set to 0 to disable
+	waiter_language=0			-- NUMERICAL value - [BETA Testing] changes language file, 0 = American English, 1 = Brazillian/Portugese, 2 = Polish
+    }, enabled=true
+  }
+}
